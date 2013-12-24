@@ -1,3 +1,3 @@
 LC-DECO
 =======
-TESTCOMMIT2
+For information please see /manual/lcmstnodeco.pdf
